@@ -1,0 +1,1 @@
+[{"uid":"e302322d386674b7","name":"As a user, I register a new account","time":{"start":1710342454200,"stop":1710342455845,"duration":1645},"status":"passed","severity":"normal"},{"uid":"96c1743cf74a27cc","name":"As a user, I can log in","time":{"start":1710342454191,"stop":1710342455631,"duration":1440},"status":"passed","severity":"normal"}]

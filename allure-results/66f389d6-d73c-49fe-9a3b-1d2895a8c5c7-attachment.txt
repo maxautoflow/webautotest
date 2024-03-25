@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "#explicit-consent-prompt-reject"
+}

@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Mar 13 15:07:34 GMT 2024","Wed Mar 13 15:07:35 GMT 2024","1645","","Register","","","","As a user, I register a new account",""
+"passed","Wed Mar 13 15:07:34 GMT 2024","Wed Mar 13 15:07:35 GMT 2024","1440","","Login","","","","As a user, I can log in",""
